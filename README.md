@@ -57,9 +57,8 @@ I build **systems that scale to production**.
 # GitHub Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anuragjh/anuragjh/output/github-contribution-grid-snake-dark.svg" />
+  <img src="game.gif" width="720" />
 </p>
-
 ---
 
 # Tech Arsenal
