@@ -18,15 +18,11 @@ college: St. Thomas College of Engineering
 focus: Backend Systems • Cloud • IoT • DevOps
 mindset: Build → Scale → Optimize → Automate
 ````
-
-I don’t write CRUD apps.
-I build **systems that scale to production**.
-
+<p align="center">
+  <img src="Screenshot from 2026-03-03 18-08-43.png" width="800" alt="Aman Jha Workspace Setup"  width="78%"/>
+</p>
 
 ---
-
-
-
 # Development Insights
 
 <p align="center">
@@ -41,7 +37,6 @@ I build **systems that scale to production**.
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/aman_jha_dev?theme=dark&font=Orbitron&ext=heatmap" width="78%"/>
 </p>
-
 ---
 
 # GitHub Contribution Activity
