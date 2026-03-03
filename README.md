@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/followers/anuragjh.svg?style=for-the-badge" />
 </p>
 
-# Who Am I?
+# ~$ whoami
 
 ```yaml
 name: Aman Jha
