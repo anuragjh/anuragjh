@@ -1,6 +1,3 @@
-# 🌌 Premium Animated Banner
-
-html
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=AMAN+JHA;AI+%7C+ML+Engineer;Spring+Ecosystem+Architect;IoT+Systems+Builder;DevOps+%26+Cloud+Engineer;AIR+26+National+Hackathon" />
 </p>
