@@ -36,13 +36,24 @@ mindset: Build → Scale → Optimize → Automate
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/aman_jha_dev?theme=dark&font=Orbitron&ext=heatmap" width="78%"/>
 </p>
----
+
 
 # GitHub Contribution Activity
 
 <p align="center">
   <img src="game.gif" width="720" />
 </p>
+
+---
+
+
+<p align="center">
+  <a href="https://wakatime.com/@anuragjh">
+    <img src="https://wakatime.com/badge/user/anuragjh.svg?style=for-the-badge" />
+  </a>
+</p>
+
+
 
 # Tech Arsenal
 
