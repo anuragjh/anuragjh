@@ -57,28 +57,21 @@ I build **systems that scale to production**.
 
 # ⏳ WakaTime Coding Stats
 
-> ⚠️ Replace `YOUR_WAKATIME_USERNAME`
-
-```markdown
-[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_USERNAME.svg)](https://wakatime.com/@YOUR_WAKATIME_USERNAME)
-```
-
-To enable:
-
-1. Create account on WakaTime
-2. Install IDE plugin
-3. Replace username above
+<p align="center">
+  <a href="https://wakatime.com/@anuragjh">
+    <img src="https://wakatime.com/badge/user/anuragjh.svg" />
+  </a>
+</p>
 
 ---
 
 # 🐍 GitHub Contribution Snake (Dark Mode)
 
 
-```html
 <p align="center">
   <img src="https://raw.githubusercontent.com/anuragjh/anuragjh/output/github-contribution-grid-snake-dark.svg" />
 </p>
-```
+
 
 ---
 
