@@ -53,8 +53,14 @@ mindset: Build → Scale → Optimize → Automate
   </a>
 </p>
 
+# Live Systems
 
-
+• IoT Control Backend — Running on Oracle Cloud Infrastructure  
+• MQTT Broker — EMQX Cloud (us-east-1)  
+• Voice Command Endpoint — Production  
+• Android Application — Used by 100+ students  
+• Astrix Backend — Production environment  
+• Alisias System — Production deployment  
 # Tech Arsenal
 
 <p align="center">
@@ -99,3 +105,9 @@ ESP32-S3 • MQTT • Relay Systems • Embedded Systems • IoT Automation
   </a>
 </p>
 
+
+---
+
+```bash
+$ echo "Stay hungry. Stay building."
+Stay hungry. Stay building.
