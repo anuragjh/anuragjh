@@ -1,10 +1,10 @@
 # 🌌 Premium Animated Banner
 
-```html
+html
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=AMAN+JHA;AI+%7C+ML+Engineer;Spring+Ecosystem+Architect;IoT+Systems+Builder;DevOps+%26+Cloud+Engineer;AIR+26+National+Hackathon" />
 </p>
-```
+
 
 ---
 
@@ -19,13 +19,13 @@
 
 # ⚡ Who Am I?
 
-```yaml
+yaml
 Name: Aman Jha
 Age: 19
 Degree: B.Tech AI/ML
 College: St Thomas College of Engineering
 Mindset: Build > Scale > Optimize > Automate
-```
+
 
 I don’t write CRUD apps.
 I build **systems that scale to production**.
@@ -188,13 +188,3 @@ Obstacle Avoiding Car
 ```
 
 ---
-
-If you want next level:
-
-* Custom neon animated banner with your name rendered as cyber logo
-* 3D hologram style header
-* Matrix falling code animation
-* Custom SVG cyber avatar
-
-Say the word:
-**ULTRA MODE** 😈
