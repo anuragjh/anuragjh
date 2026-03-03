@@ -1,34 +1,200 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/aman-jha-393468318/">Aman</a> </h1>
-<div align="center">
-  
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramakrushna-biswal) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23469288/ramakrushna-biswal)
-[![Twitter](https://img.shields.io/badge/Twitter-000.svg?logo=x&logoColor=white)](https://x.com/Ramakrushna23/)
-</div>
-<hr>
+# 🌌 Premium Animated Banner
 
-👨🏻‍💻 **About Me** <img src="https://www.codedex.io/images/code-nights/evolved-happy-dragon.gif" min-width="300px" max-width="300px" width="250px" align="right">
-<br>
-✨ GDG GIETU Social and Graphics Lead <br>
-🚀Open Source Contributor<br>
-💬 Ask me about WEB & UX/UI<br>
-✉️ Contact me <a href="mailto:ramakrushnabunty@gmail.com">Gmail</a>
-  
-<details>	
- <summary><b>🛠Tech Stack</b></summary><br>
-  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-</details> 
-⚙️GitHub Analytics
+```html
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=AMAN+JHA;AI+%7C+ML+Engineer;Spring+Ecosystem+Architect;IoT+Systems+Builder;DevOps+%26+Cloud+Engineer;AIR+26+National+Hackathon" />
+</p>
+```
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=RamakrushnaBiswal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RamakrushnaBiswal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-## Holopin badges👀
-[![ @ramakrushnabiswal's Holopin badges](https://holopin.me/ramakrushnabiswal)](https://holopin.io/@ramakrushnabiswal)
+---
 
-## GSSOC(24) Badges 🪶
-![image](https://github.com/RamakrushnaBiswal/RamakrushnaBiswal/assets/125277258/73a5969d-b2cf-4263-bfd7-d9de67545902)
-  ![](https://komarev.com/ghpvc/?username=RamakrushnaBiswal&color=green)
-  #### Show some ❤️ by starring some of the repositories!
+# 🧠 Cyberpunk Identity
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anuragjh&label=VISITORS&color=0ff&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/anuragjh?style=for-the-badge&color=blue&label=FOLLOWERS"/>
+</p>
+
+---
+
+# ⚡ Who Am I?
+
+```yaml
+Name: Aman Jha
+Age: 19
+Degree: B.Tech AI/ML
+College: St Thomas College of Engineering
+Mindset: Build > Scale > Optimize > Automate
+```
+
+I don’t write CRUD apps.
+I build **systems that scale to production**.
+
+---
+
+# 🏆 National Achievements
+
+## 🥇 AIR 26 – Coding Ninjas National Hackathon
+
+<p align="center">
+  <img src="YOUR_AIR26_IMAGE.png" width="750px"/>
+</p>
+
+---
+
+## 💻 National Frontend Hackathon – Sheriyans
+
+<p align="center">
+  <img src="YOUR_SHERIYANS_IMAGE.png" width="750px"/>
+</p>
+
+---
+
+# 🧠 Live LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/aman_jha_dev?theme=dark&font=Orbitron&ext=heatmap" />
+</p>
+
+---
+
+# ⏳ WakaTime Coding Stats
+
+> ⚠️ Replace `YOUR_WAKATIME_USERNAME`
+
+```markdown
+[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_USERNAME.svg)](https://wakatime.com/@YOUR_WAKATIME_USERNAME)
+```
+
+To enable:
+
+1. Create account on WakaTime
+2. Install IDE plugin
+3. Replace username above
+
+---
+
+# 🐍 GitHub Contribution Snake (Dark Mode)
 
 
+```html
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anuragjh/anuragjh/output/github-contribution-grid-snake-dark.svg" />
+</p>
+```
 
+---
+
+# 🧬 Tech Arsenal
+
+## 🔥 Spring Ecosystem (Advanced)
+
+Spring Boot
+Spring Security
+Spring Cloud
+Spring Data JPA
+Spring OAuth2
+JWT
+Microservices
+WebSockets
+Hibernate
+Maven / Gradle
+Razorpay Webhooks
+
+---
+
+## 🌐 MERN Stack
+
+MongoDB
+Express
+React
+Node
+
+---
+
+## ☁️ Cloud & DevOps
+
+Oracle Cloud Infrastructure
+Docker
+Kubernetes
+NGINX
+PM2
+Cloudflare Tunnels
+SCP Deployment
+Reverse Proxy
+VM Production Setup
+
+---
+
+## 🤖 AI/ML
+
+Pandas
+NumPy
+Matplotlib
+Seaborn
+SQL
+Data Pipelines
+Model Evaluation
+
+---
+
+## 🔌 IoT Systems
+
+ESP32-S3
+MQTT
+Relay Systems
+Smart Study Table Light
+Astrix Hardware
+Obstacle Avoiding Car
+
+---
+
+# 📊 GitHub Analytics (Cyber Dark)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragjh&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragjh&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragjh&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/anuragjh"><img src="https://img.shields.io/badge/GitHub-0ff?style=for-the-badge&logo=github&logoColor=black"></a>
+  <a href="https://www.linkedin.com/in/aman-jha-393468318/"><img src="https://img.shields.io/badge/LinkedIn-0ff?style=for-the-badge&logo=linkedin&logoColor=black"></a>
+  <a href="https://leetcode.com/u/aman_jha_dev/"><img src="https://img.shields.io/badge/LeetCode-0ff?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://x.com/theamanjhadev"><img src="https://img.shields.io/badge/X-0ff?style=for-the-badge&logo=x&logoColor=black"></a>
+  <a href="https://portfolio-git-aman-mrwickjs-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0ff?style=for-the-badge&logo=firefox&logoColor=black"></a>
+</p>
+
+---
+
+# 🧠 Developer Philosophy
+
+```diff
++ Build real hardware
++ Deploy on real servers
++ Secure with real auth
++ Compete nationally
++ Engineer > Developer
+```
+
+---
+
+If you want next level:
+
+* Custom neon animated banner with your name rendered as cyber logo
+* 3D hologram style header
+* Matrix falling code animation
+* Custom SVG cyber avatar
+
+Say the word:
+**ULTRA MODE** 😈
