@@ -74,7 +74,9 @@ ESP32-S3 • MQTT • Relay Systems • Embedded Systems • IoT Automation
 
 ---
 
-<img src="./assets/anuragjh-space-shooter.gif" alt="anuragjh" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anuragjh/anuragjh/main/anuragjh-space-shooter.gif" width="600" />
+</p>
 
 # Connect With Me
 
