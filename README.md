@@ -38,12 +38,8 @@ I build **systems that scale to production**.
 </p>
 
 
----
-
-# LeetCode Performance
-
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/aman_jha_dev?theme=dark&font=Orbitron&ext=heatmap" width="520"/>
+  <img src="https://leetcard.jacoblin.cool/aman_jha_dev?theme=dark&font=Orbitron&ext=heatmap" width="78%"/>
 </p>
 
 ---
@@ -53,7 +49,6 @@ I build **systems that scale to production**.
 <p align="center">
   <img src="game.gif" width="720" />
 </p>
----
 
 # Tech Arsenal
 
@@ -65,14 +60,22 @@ Backend • Microservices • JWT • OAuth2 • WebSockets • Razorpay • Ora
 Pandas • NumPy • Matplotlib • Seaborn • SQL • Data Engineering  
 ESP32-S3 • MQTT • Relay Systems • Embedded Systems • IoT Automation  
 
----
+# Philosophy
 
+```diff
++ Build real hardware
++ Deploy real infrastructure
++ Secure production systems
++ Compete at national level
++ Engineer > Developer
+```
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anuragjh/anuragjh/main/anuragjh-space-shooter.gif" width="600" />
+  <b>AIR 26</b> — Coding Ninjas National Hackathon  
+  <br/>
+  <b>National Frontend Hackathon Participant</b> — Sheriyans  
+  <br/>
+  <b>Backend Intern (Django)</b> — Surtle Security  
 </p>
-
-# Connect With Me
-
 <p align="center">
   <a href="https://github.com/anuragjh">
     <img src="https://img.shields.io/badge/GitHub-00ffff?style=for-the-badge&logo=github&logoColor=black">
@@ -91,25 +94,3 @@ ESP32-S3 • MQTT • Relay Systems • Embedded Systems • IoT Automation
   </a>
 </p>
 
----
-
-
-# Achievements & Experience
-
-<p align="center">
-  <b>AIR 26</b> — Coding Ninjas National Hackathon  
-  <br/>
-  <b>National Frontend Hackathon Participant</b> — Sheriyans  
-  <br/>
-  <b>Backend Intern (Django)</b> — Surtle Security  
-</p>
-
-# My Philosophy
-
-```diff
-+ Build real hardware
-+ Deploy real infrastructure
-+ Secure production systems
-+ Compete at national level
-+ Engineer > Developer
-```
