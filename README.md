@@ -49,7 +49,7 @@ mindset: Build → Scale → Optimize → Automate
 
 <p align="center">
   <a href="https://wakatime.com/@anuragjh">
-    <img src="https://wakatime.com/badge/user/anuragjh.svg?style=for-the-badge" />
+    <img src="https://wakatime.com/badge/user/bd36a5bf-1c97-46aa-bada-d0d63ad6b6be.svg" />
   </a>
 </p>
 
