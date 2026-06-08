@@ -86,6 +86,8 @@ ESP32-S3 • MQTT • Relay Systems • Embedded Systems • IoT Automation
   <b>National Frontend Hackathon Participant</b> — Sheriyans  
   <br/>
   <b>Backend Intern (Django)</b> — Surtle Security  
+    <br/>
+  <b>Full-Time AI/ML Engineering Intern (SDE) </b> — @CornFlakes media 
 </p>
 <p align="center">
   <a href="https://github.com/anuragjh">
