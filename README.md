@@ -87,7 +87,7 @@ ESP32-S3 • MQTT • Relay Systems • Embedded Systems • IoT Automation
   <br/>
   <b>Backend Intern (Django)</b> — Surtle Security  
     <br/>
-  <b>Full-Time AI/ML Engineering Intern (SDE) </b> — @CornFlakes media 
+  <b>Full-Time AI/ML Engineering Intern (SDE) </b> — @Opacity AI
 </p>
 <p align="center">
   <a href="https://github.com/anuragjh">
