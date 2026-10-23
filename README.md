@@ -12,9 +12,6 @@
 
 ```yaml
 name: Aman Jha
-age: 19
-degree: B.Tech AI/ML
-college: St. Thomas College of Engineering
 focus: Backend Systems • Cloud • IoT • DevOps
 mindset: Build → Scale → Optimize → Automate
 ````
@@ -87,7 +84,7 @@ ESP32-S3 • MQTT • Relay Systems • Embedded Systems • IoT Automation
   <br/>
   <b>Backend Intern (Django)</b> — Surtle Security  
     <br/>
-  <b>Full-Time AI/ML Engineering Intern (SDE) </b> — @Opacity AI
+  <b>Full-Time AI/ML Engineering (SDE) </b> — @Opacity AI
 </p>
 <p align="center">
   <a href="https://github.com/anuragjh">
